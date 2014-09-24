@@ -1,28 +1,11 @@
-== README
+NY Critter is a website to see if it is safe to eat at any restaurant in New York City and to help spread awareness.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I initially created the app in Sinatra and this is its corresponding version in Rails.
 
-Things you may want to cover:
+NYCritter.herokuapp.com
 
-* Ruby version
+Eric Shemtov: github.com/eshem
 
-* System dependencies
+Audrey Mcgowan: github.com/abcm1989
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Max Lock: github.com/mediaspork
