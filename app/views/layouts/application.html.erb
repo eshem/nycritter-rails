@@ -9,8 +9,8 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
-
+<%= render partial: '/nav.html.erb' %>
 <%= yield %>
-
+<center><p class="text-muted">&copy; NYCritter. All rights reserved.</p></center>
 </body>
 </html>
